@@ -5,3 +5,9 @@
 * Szerkesztve: 2014-2024
 * Licenc: CC BY-SA 4.0
 * Web: https://szit.hu
+
+# Feladat
+
+*Oldja meg a kép alapján a feladatot.
+
+![Minta](minta 015_feladat.png)
