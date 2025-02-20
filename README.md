@@ -8,6 +8,6 @@
 
 # Feladat
 
-*Oldja meg a kép alapján a feladatot.
+* Oldja meg a kép alapján a feladatot.
 
 ![Minta](minta 015_feladat.png)
