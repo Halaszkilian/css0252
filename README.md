@@ -10,4 +10,4 @@
 
 * Oldja meg a kép alapján a feladatot.
 
-![Minta](minta 015_feladat.png)
+![Minta](015_feladat.png)
